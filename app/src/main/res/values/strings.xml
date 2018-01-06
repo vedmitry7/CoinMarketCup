@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Coinmarketcap</string>
+    <string name="id">Id</string>
+    <string name="name">Name</string>
+    <string name="symbol">Symbol</string>
+    <string name="rank">Rank</string>
+    <string name="_24h_volume_usd">24h Volume(USD)</string>
+    <string name="market_cup_usd">Market cup(USD)</string>
+    <string name="available_supply">Available Supply</string>
+    <string name="total_supply">Total Supply</string>
+    <string name="price_usd">Price(USD)</string>
+    <string name="price_btc">Price(BTC)</string>
+    <string name="change_1h">Change 1h</string>
+    <string name="change_24h">Change 24h</string>
+    <string name="change_7d">Change 7d</string>
+    <string name="last_update">Last update</string>
+</resources>
